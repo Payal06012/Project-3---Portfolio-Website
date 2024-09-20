@@ -36,7 +36,8 @@ body {
     left: 0;
     width: 100%;
     padding: 2rem 9%;
-    background: transparent;
+    /* background: transparent; */
+    background: #f6602aab; ;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -45,7 +46,7 @@ body {
 }
 
 .header.sticky {
-     background: var(--bg-color); 
+     background: var(--bg-color);
  
 }
 
