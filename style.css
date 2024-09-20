@@ -14,7 +14,7 @@
 }
 
 :root {
-    --bg-color:#f0b394c3;
+    --bg-color:hwb(20 58% 6% / 0.765);
     --second-bg-color: #f6602aab;
     --text-color: hwb(30 0% 98%);
     --main-color: #4d27f5;
