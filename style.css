@@ -623,7 +623,7 @@ span {
     display: flex;
 }
 .proj-content> div{
-    background-color: #f0b394c3;
+    background-color: hwb(21 75% 4% / 0.765);
     margin : 20px;
     border-color: #4d27f5;
     border-width: 0rlh;
